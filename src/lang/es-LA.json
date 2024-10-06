@@ -1,0 +1,116 @@
+{
+  "authentication": {
+      "Home": "Inicio",
+      "sign_in_to_my_app": "Iniciar sesión en MyApp",
+      "forgot_password": "¿Olvidaste tu contraseña?",
+      "select_language": "Seleccionar idioma",
+      "sign_in": "Iniciar sesión",
+      "dont_have_an_account": "¿No tienes una cuenta?",
+      "register_an_account": "Registra una cuenta",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "remember_me": "Recuérdame",
+      "sign_up_to_my_app": "Regístrate en MyApp",
+      "sign_up": "Registrarse",
+      "do_you_have_an_account": "¿Ya tienes una cuenta?",
+      "an_error_has_occurred": "Ha ocurrido un error.",
+      "email_not_valid": "La dirección de correo electrónico no es válida.",
+      "email_short": "La dirección de correo electrónico es demasiado corta.",
+      "password_short": "La contraseña es demasiado corta.",
+      "password_long": "La contraseña es demasiado larga.",
+      "do_you_remember_password": "¿Recuerdas la contraseña?",
+      "reset": "Restablecer",
+      "reset_password": "Restablecer contraseña",
+      "user_id": "ID de usuario",
+      "logout": "Cerrar sesión",
+      "create_new_password": "Crear nueva contraseña",
+      "new_password": "Nueva contraseña",
+      "repeat_password": "Repetir contraseña",
+      "save": "Guardar",
+      "repeat_password_doesnt_match": "La contraseña repetida no coincide con la nueva contraseña.",
+      "go_home": "Ir a inicio",
+      "continue_with_google": "Continuar con Google",
+      "sign_up_page_description": "Crea una nueva cuenta.",
+      "reset_password_page_description": "Restablece la contraseña de tu cuenta.",
+      "sign_in_page_description": "Inicia sesión en tu cuenta.",
+      "change_password": "Cambiar contraseña",
+      "change_password_page_description": "Crea una nueva contraseña para tu cuenta.",
+      "dashboard": "Tablero",
+      "dashboard_page_description": "Página de tu tablero."
+  },
+  
+  "menu_home": {
+      "Home": "Inicio",
+      "Upload Data": "Cargar Datos",
+      "Skill Builder": "Constructor de habilidades",
+      "Progress Tracking": "Seguimiento del progreso",
+      "About": "Acerca de",
+      "Contact": "Contacto"
+  },
+
+  "about": {
+      "About_Home_View": "Acerca de nosotros",
+      "About_Description": "Estamos dedicados a proporcionar la mejor experiencia de aprendizaje.",
+      "About_Mission": "Nuestra misión es empoderar a los aprendices a través de habilidades prácticas.",
+      "About_Vision": "Nuestra visión es crear una comunidad de aprendizaje permanente."
+  },
+
+  "contact": {
+      "Contact_Home_View": "Contáctanos",
+      "name": "Tu nombre",
+      "email": "Tu correo electrónico",
+      "message": "Tu mensaje",
+      "submit": "Enviar"
+  },
+
+  "progress_tracking": {
+      "Progress_Tracking_Home": "Seguimiento del progreso",
+      "Progress_Description": "Sigue tu progreso y observa cuánto has mejorado con el tiempo.",
+      "Recent_Progress": "Progreso reciente",
+      "Recent_Progress_Description": "Aquí tienes un resumen de tus logros recientes.",
+      "Overall_Progress": "Progreso general",
+      "Overall_Progress_Description": "Monitorea tu desarrollo de habilidades y aprendizaje en general."
+  },
+
+  "skill_builder": {
+      "Skill_Builder_Home": "Constructor de habilidades",
+      "Skill_Builder_Description": "Desarrolla nuevas habilidades y mejora las existentes con nuestras herramientas.",
+      "Create_New_Skill": "Crear nueva habilidad",
+      "Create_New_Skill_Description": "Crea una nueva habilidad y sigue tu progreso de aprendizaje.",
+      "Create": "Crear",
+      "Recommended_Skills": "Habilidades recomendadas",
+      "Recommended_Skills_Description": "Explora una lista de habilidades que podrían interesarte.",
+      "Select_Language": "Seleccionar Lenguage",
+      "Title_Name": "Nombre Título",
+      "Topic_Father": "Tópico Padre",
+      "Enter_multiple_topic_son": "Ingresa Múltiples Tópicos Hijos",
+      "Use_commas_to_separate_values": "Usa comas para separar los sub-topicos",
+      "Description": "Descripción",
+      "CEFR_Level" : "Nivel CEFR",
+      "Select_number_tokens" : "Seleccionar número de tokens",
+      "Submit": "Enviar",
+      "Continue": "Continuar",
+      "Resubmit": "Reenviar",
+      "Setence": "Oración",
+      "Save_Sentences": "Guardar Sentencias",
+      "errors": {
+          "fill_required_fields": "Por favor, completa todos los campos obligatorios",
+          "misspelled_words": "Palabras mal escritas: {words}",
+          "spell_check_failed": "Error al verificar la ortografía.",
+          "omit_spell_check_failed": "Error al omitir la verificación ortográfica."
+      },
+      "success": {
+          "sentences_generated": "Oraciones generadas correctamente."
+      }
+  },
+
+    "upload_data": {
+    "Upload_Data_Home": "Subir Datos",
+    "Upload_Data_Description": "Practica y domina tus habilidades a través de ejercicios interactivos.",
+    "Upload_Data_New_Structure": "Agregar Nueva Estructura de Datos",
+    "Upload_Data_Existing_Estructure": "Cargar Datos en Estructura Existente",
+    "Upload_Data_Proceed": "Proceder"
+    }
+
+  
+}

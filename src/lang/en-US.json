@@ -1,0 +1,115 @@
+{
+    "authentication": {
+      "Home": "Home",
+      "sign_in_to_my_app": "Sign In to MyApp",
+      "forgot_password": "Forgot Password?",
+      "select_language": "Select Language",
+      "sign_in": "Sign In",
+      "dont_have_an_account": "Don't have an account?",
+      "register_an_account": "Register an account",
+      "email": "E-mail",
+      "password": "Password",
+      "remember_me": "Remember me",
+      "sign_up_to_my_app": "Sign Up to MyApp",
+      "sign_up": "Sign Up",
+      "do_you_have_an_account": "Do you have an account?",
+      "an_error_has_occurred": "An error has occurred.",
+      "email_not_valid": "The email address is not valid.",
+      "email_short": "The email address is too short.",
+      "password_short": "The password is too short.",
+      "password_long": "The password is too long.",
+      "do_you_remember_password": "Do you remember the password?",
+      "reset": "Reset",
+      "reset_password": "Reset Password",
+      "user_id": "User ID",
+      "logout": "Logout",
+      "create_new_password": "Create New Password",
+      "new_password": "New Password",
+      "repeat_password": "Repeat Password",
+      "save": "Save",
+      "repeat_password_doesnt_match": "The repeat password doesn't match the new password.",
+      "go_home": "Go Home",
+      "continue_with_google": "Continue with Google",
+      "sign_up_page_description": "Create a new account.",
+      "reset_password_page_description": "Reset password for your account.",
+      "sign_in_page_description": "Sign in to your account.",
+      "change_password": "Change Password",
+      "change_password_page_description": "Create a new password for your account.",
+      "dashboard": "Dashboard",
+      "dashboard_page_description": "Your dashboard page."
+    },
+    
+    "menu_home": {
+      "Home": "Home",
+      "Upload Data": "Upload Data",
+      "Skill Builder": "Skill Builder",
+      "Progress Tracking": "Progress Tracking",
+      "About": "About",
+      "Contact": "Contact"
+    },
+  
+    "about": {
+      "About_Home_View": "About Us",
+      "About_Description": "We are dedicated to providing the best learning experience.",
+      "About_Mission": "Our mission is to empower learners through practical skills.",
+      "About_Vision": "Our vision is to create a community of lifelong learners."
+    },
+    
+    "contact": {
+      "Contact_Home_View": "Contact Us",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Submit"
+    },
+  
+    "progress_tracking": {
+      "Progress_Tracking_Home": "Progress Tracking",
+      "Progress_Description": "Track your progress and see how much you've improved over time.",
+      "Recent_Progress": "Recent Progress",
+      "Recent_Progress_Description": "Here is a summary of your recent achievements.",
+      "Overall_Progress": "Overall Progress",
+      "Overall_Progress_Description": "Track your overall learning and skills development."
+    },
+  
+    "skill_builder": {
+      "Skill_Builder_Home": "Skill Builder",
+      "Skill_Builder_Description": "Develop new skills and improve existing ones with our tools.",
+      "Create_New_Skill": "Create New Skill",
+      "Create_New_Skill_Description": "Build a new skill and track your learning progress.",
+      "Create": "Create",
+      "Recommended_Skills": "Recommended Skills",
+      "Recommended_Skills_Description": "Explore a list of skills that might interest you.",
+      "Select_Language": "Select Language",
+      "Title_Name": "Title Name",
+      "Topic_Father": "Topic Father",
+      "Enter_multiple_topic_son": "Enter Multiple Topic Son",
+      "Use_commas_to_separate_values": "Use commas to separate values",
+      "Description": "Description",
+      "CEFR_Level" : "CEFR Level",
+      "Select_number_tokens" : "Select number tokens",
+      "Submit": "Submit",
+      "Continue": "Continue",
+      "Resubmit": "Resubmit",
+      "Setence": "Setence",
+      "Save_Sentences": "Save Setences",
+      "errors": {
+        "fill_required_fields": "Please enter all required fields",
+        "misspelled_words": "Misspelled words: {words}",
+        "spell_check_failed": "Error checking spelling.",
+        "omit_spell_check_failed": "Error omitting spell checking."
+      },
+      "success": {
+        "sentences_generated": "Sentences generated successfully."
+      }
+    },
+  
+    "upload_data": {
+      "Upload_Data_Home": "Upload Data",
+      "Upload_Data_Description": "Practice and master your skills through interactive exercises.",
+      "Upload_Data_New_Structure": "Add New Structure Data",
+      "Upload_Data_Existing_Estructure": "Load Data into Existing Structure",
+      "Upload_Data_Proceed": "Proceed"
+    }
+  }
+  
